@@ -1,6 +1,6 @@
 {
   "name": "ufix",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Packing GPS fix in 16 chars text string",
   "scripts": {
     "test": "./node_modules/.bin/mocha test"

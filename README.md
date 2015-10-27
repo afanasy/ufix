@@ -1,7 +1,7 @@
 Packing GPS fix in 16 chars text string
 
 ## Why do I need it?
-To save space when storing GPS locations or transmitting them 
+To save space when storing GPS locations or transporting them 
 
 ## Example
 ```js
