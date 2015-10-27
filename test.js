@@ -10,9 +10,9 @@ var
 
 describe('#Ufix', function () {
   it('packs', function () {
-    expect(ufix.pack(fix)).to.eql(s)
+    expect(ufix(fix)).to.eql(s)
   })
   it('unpacks', function () {
-    expect(ufix.unpack(s)).to.eql(fix)
+    expect(ufix(s)).to.eql(fix)
   })
 })
